@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "skills": {
+    "trailmark": {
+      "source": "linyanzu/trailmark",
+      "sourceType": "github",
+      "skillPath": "skills/trailmark/SKILL.md"
+    }
+  }
+}

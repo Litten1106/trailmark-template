@@ -1,0 +1,27 @@
+# Local
+.DS_Store
+*.local
+*.log*
+
+# Dist
+node_modules
+dist/
+
+# Profile
+.rspack-profile-*/
+
+# IDE
+.vscode/*
+!.vscode/extensions.json
+.idea
+.cursor/
+
+# Sensitive — never commit
+cookies.json
+.env.local
+.vercel
+.claude/settings.local.json
+.cursor/debug-*.log
+public/assets/days/cookies.json
+src/data/itinerary.ts.bak
+.vercel
