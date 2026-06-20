@@ -2,7 +2,7 @@
 
 把已有旅行行程变成可随身携带、可部署的 H5 路书。React + TypeScript + Rsbuild + Tailwind + Mapbox GL JS。
 
-配套 Agent Skill：[linyanzu/trailmark](https://github.com/linyanzu/trailmark) — 引导你从 Markdown / 飞书 / Notion 导入行程、补全坐标、部署到 Vercel。
+配套 Agent Skill **trailmark** — 引导你从 Markdown / 飞书 / Notion 导入行程、补全坐标、部署到 Vercel。
 
 ## 预览
 
@@ -21,11 +21,20 @@ cp .env.example .env.local
 pnpm dev
 ```
 
-安装引导 Skill（任意 Agent）：
+### Agent Skill
+
+安装后，对 Agent 说：
+
+> 用 trailmark 帮我把行程做成可部署的路书
+
+<details>
+<summary>首次安装 trailmark Skill</summary>
 
 ```bash
 npx skills add linyanzu/trailmark --skill trailmark -g -y
 ```
+
+</details>
 
 ## 技术栈
 

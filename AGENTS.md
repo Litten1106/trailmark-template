@@ -12,8 +12,6 @@ Trailmark template — visual roadbook from `src/data/itinerary.ts`.
 
 ## Skill
 
-Install the Trailmark guide skill:
+Tell your agent: 用 trailmark 帮我把行程做成可部署的路书
 
-```bash
-npx skills add linyanzu/trailmark --skill trailmark -g -y
-```
+First-time install: `npx skills add linyanzu/trailmark --skill trailmark -g -y`
