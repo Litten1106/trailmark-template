@@ -8,7 +8,7 @@
 
 | 首页行程总览 | 地图 + 单日行程 | POI 详情 |
 |:---:|:---:|:---:|
-| <img src="https://github.com/Litten1106/trailmark-template/raw/main/public/images/readme-home.png" width="220" alt="首页" /> | <img src="https://github.com/Litten1106/trailmark-template/raw/main/public/images/readme-day-map.png" width="220" alt="地图行程" /> | <img src="https://github.com/Litten1106/trailmark-template/raw/main/public/images/readme-poi-detail.png" width="220" alt="POI 详情" /> |
+| <img src="public/images/readme-home.png" width="220" alt="首页" /> | <img src="public/images/readme-day-map.png" width="220" alt="地图行程" /> | <img src="public/images/readme-poi-detail.png" width="220" alt="POI 详情" /> |
 
 ## 快速开始
 
