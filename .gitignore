@@ -13,7 +13,7 @@ dist/
 # IDE
 .vscode/*
 !.vscode/extensions.json
-.idea
+.idea/
 .cursor/
 
 # Sensitive — never commit
