@@ -72,7 +72,7 @@ const LayoutContent = (): ReactNode => {
           <p className="site-footer__copy text-xs tracking-wide">
             Powered by{' '}
             <a
-              href="https://github.com/linyanzu/trailmark"
+              href="https://github.com/trailmark/trailmark"
               target="_blank"
               rel="noreferrer"
               className="underline"

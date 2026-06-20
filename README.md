@@ -13,7 +13,7 @@
 ## 快速开始
 
 ```bash
-npx degit linyanzu/trailmark-template my-trip
+npx degit trailmark/trailmark-template my-trip
 cd my-trip
 pnpm install
 cp .env.example .env.local
@@ -31,7 +31,7 @@ pnpm dev
 <summary>首次安装 trailmark Skill</summary>
 
 ```bash
-npx skills add linyanzu/trailmark --skill trailmark -g -y
+npx skills add trailmark/trailmark --skill trailmark -g -y
 ```
 
 </details>

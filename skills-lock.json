@@ -2,7 +2,7 @@
   "version": 1,
   "skills": {
     "trailmark": {
-      "source": "linyanzu/trailmark",
+      "source": "trailmark/trailmark",
       "sourceType": "github",
       "skillPath": "skills/trailmark/SKILL.md"
     }
