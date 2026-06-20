@@ -8,7 +8,7 @@
 
 | 首页行程总览 | 地图 + 单日行程 | POI 详情 |
 |:---:|:---:|:---:|
-| <img src="https://picui.ogmua.cn/s1/2026/06/20/6a3600b056911.webp" width="220" alt="首页" /> | <img src="https://picui.ogmua.cn/s1/2026/06/20/6a3600acecb8b.webp" width="220" alt="地图行程" /> | <img src="https://picui.ogmua.cn/s1/2026/06/20/6a3600af0a7cf.webp" width="220" alt="POI 详情" /> |
+| <a href="https://imgse.com/i/FMmp4"><img src="https://a1.ax1x.com/2026/06/20/FMmp4.png" width="220" alt="首页" /></a> | <a href="https://imgse.com/i/FM7aO"><img src="https://a1.ax1x.com/2026/06/20/FM7aO.png" width="220" alt="地图行程" /></a> | <a href="https://imgse.com/i/FMHDm"><img src="https://a1.ax1x.com/2026/06/20/FMHDm.png" width="220" alt="POI 详情" /></a> |
 
 ## 快速开始
 
